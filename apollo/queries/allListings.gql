@@ -1,0 +1,7 @@
+{
+	listing {
+		id
+		name
+		amount
+	}
+}
